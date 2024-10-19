@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1b50afb.css",
-    "main.js": "/static/js/main.640fc378.js",
+    "main.css": "/static/css/main.3fc0a23a.css",
+    "main.js": "/static/js/main.9cc6e105.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/Logo_Rasmi_UMT.png": "/static/media/Logo_Rasmi_UMT.db718ed09ff86cb31630.png",
     "static/media/aqil_pic.jpg": "/static/media/aqil_pic.fa0761b4e9b2c0ab2b3e.jpg",
     "index.html": "/index.html",
-    "main.b1b50afb.css.map": "/static/css/main.b1b50afb.css.map",
-    "main.640fc378.js.map": "/static/js/main.640fc378.js.map",
+    "main.3fc0a23a.css.map": "/static/css/main.3fc0a23a.css.map",
+    "main.9cc6e105.js.map": "/static/js/main.9cc6e105.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1b50afb.css",
-    "static/js/main.640fc378.js"
+    "static/css/main.3fc0a23a.css",
+    "static/js/main.9cc6e105.js"
   ]
 }
